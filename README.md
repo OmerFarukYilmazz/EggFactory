@@ -1,4 +1,4 @@
-## EggFactory
+# EggFactory
 
 ## Preview 👀
 
